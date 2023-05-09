@@ -1,9 +1,9 @@
 # vimitation
-Built a Vim-like text editor in C++14 with additional features by following a detailed UML diagram I created in the planning phases of the project. I used SOLID OOP principles and implemented design patterns, like MVC, Strategy, and Template method, to maximize the cohesion and minimize the coupling of the program.
+Built a Vim-like text editor in C++14 with additional features by following a detailed [UML diagram](https://github.com/DanielTamiru/vimitation/files/11434058/uml.pdf) I created in the planning phases of the project. I used SOLID OOP principles and implemented design patterns, like MVC, Strategy, and Template method, to maximize the cohesion and minimize the coupling of the program.
 
 
 ### Getting Started
-Simply run `make` and the Makefile should handle the building of the executable called `vimitation` by default. 
+Simply run `make` and the Makefile should build an executable called `vimitation`. 
 
 ### Features
 
@@ -54,3 +54,4 @@ Vimitation supports side scrolling in addition to the following subset of vim co
 
 **Other**
 - `Ctrl` +  `g` - Show file name
+
