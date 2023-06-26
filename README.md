@@ -6,7 +6,7 @@ Built a Vim-like text editor in C++14 with additional features by following a de
 
 
 ### Getting Started
-Simply run `make` and the Makefile should build an executable called `vimitation`. 
+run `make` and the Makefile should build an executable called `vimitation`. 
 
 ### Features
 
