@@ -10,7 +10,7 @@ run `make` and the Makefile should build an executable called `vimitation`.
 
 ### Features
 
-Vimitation supports side scrolling in addition to the following subset of vim commands:
+Vimitation supports side-scrolling in addition to the following subset of vim commands:
 
 **Insertion**
 - `i` - insert before the cursor
