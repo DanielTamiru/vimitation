@@ -1,5 +1,5 @@
 # vimitation
-I built a Vim-like text editor in C++14 with additional features by following a detailed [UML diagram](https://github.com/DanielTamiru/vimitation/files/11434058/uml.pdf) that I created in the planning phases of the project. I used SOLID OOP principles and implemented design patterns, like the MVC, Strategy, and Template method, to maximize the cohesion and minimize the coupling of the program.
+I built a Vim-like text editor in C++14 with additional features by following a detailed [UML diagram](https://github.com/DanielTamiru/vimitation/files/11434058/uml.pdf) that I created in the planning phases of the project. I used SOLID principles and implemented design patterns, like the MVC, Strategy, and Template method, to maximize the cohesion and minimize the coupling of the program.
 
 ### [Demo](https://drive.google.com/file/d/1ty2_FUfGNJ1Cf_RB2QA4ysVysVSJ-3eZ/view?usp=share_link)
 <img width="1074" alt="image" src="https://github.com/DanielTamiru/vimitation/assets/46784904/905ec645-65d8-40c2-89d2-a6ea198a68b7">
